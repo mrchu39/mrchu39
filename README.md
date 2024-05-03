@@ -1,1 +1,1 @@
-Email mrchu@caltech.edu for questions or to request API info.
+Email mrchu@ucsd.edu for questions or to request API info.
